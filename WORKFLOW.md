@@ -1,5 +1,4 @@
 "1. Thou shall always commit to dev before the master" 
-"1. Thou shall always commit to dev before the master" 
 "2. Do feature work only in your own feature branch" 
 "3. Commit regularly" 
 "4. When unit testing is done, commit/push final changes and initiate pull request to dev" 
