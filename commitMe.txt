@@ -1,0 +1,1 @@
+I was created just to prove that you can commit a txt file via ssh.
